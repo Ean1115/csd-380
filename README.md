@@ -1,2 +1,5 @@
-# csd-380
-Ean Masoner DevOps course
+# CSD 380 DevOps
+
+## Contributors
+- Adam Bailey
+- Ean Masoner
